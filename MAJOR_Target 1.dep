@@ -1,0 +1,115 @@
+Dependencies for Project 'MAJOR', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x68641469)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\delay.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\kpm.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\kpm.o --omf_browse .\kpm.crf --depend .\kpm.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\main.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\MINI_PROJECT.c)(0x68641469)()
+F (.\uart.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\lcd.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\others_functions.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\others_functions.o --omf_browse .\others_functions.crf --depend .\others_functions.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
+F (.\bank_functions.c)(0x68641469)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\bank_functions.o --omf_browse .\bank_functions.crf --depend .\bank_functions.d)
+I (headers.h)(0x68641469)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (types.h)(0x68641469)
+I (lcd.h)(0x68641469)
+I (lcd_defines.h)(0x68641469)
+I (kpm.h)(0x68641469)
+I (kpm_defines.h)(0x68641469)
+I (delay.h)(0x68641469)
+I (uart.h)(0x68641469)
+I (uart_defines.h)(0x68641469)
+I (others_functions.h)(0x68641469)
+I (bank_functions.h)(0x68641469)
